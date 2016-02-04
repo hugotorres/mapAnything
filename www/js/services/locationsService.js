@@ -6,7 +6,7 @@ angular.module('starter').factory('LocationsService', [ function() {
     {
       name : "Bogotá D.C., Colombia",
       description:"Capital city of Colombia",
-      cateogry:"City",
+      category:"City",
       lat : 4.624335,
       lng : -74.063644
     },
